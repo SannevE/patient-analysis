@@ -1,8 +1,8 @@
-A"""
+"""
 This is an explanation of what the code does.
 This code counts the number o fline in standard input
-Input: A string.
-Output: The number of lines in the string. (this is a new line)
+Input: a string.
+Output: the number of lines in the string.
 """
 
 import sys
