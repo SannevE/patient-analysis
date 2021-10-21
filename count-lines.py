@@ -1,3 +1,10 @@
+"""
+This is an explanation of what the code does.
+This code counts the number o fline in standard input
+Input: a string.
+Output: the number of lines in the string.
+"""
+
 import sys
 
 # Create counter, initialise
